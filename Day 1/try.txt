@@ -1,0 +1,19 @@
+Try / Task
+
+
+Design a HTML page, which will have a div tag, with background color, 
+	H1 as a header in center of div (list of technologies)
+
+	use UL / LI - unordered list to display list of some technologies
+
+
+-----------------------
+	consider this as your first development
+
+
+		if you like your page and happy about it (dont worry even if it is very simple)	
+		u can ask me you want to share the screen (not compulsory)
+-----------------------------------------------------------------------------
+	http is lenghty module for developers - lots of things to do for interaction
+	insted
+	express is another module which is short hand 

@@ -1,0 +1,20 @@
+Node Package
+	this is a set of classes, methods, properties, sometimes even a variable - pre-defined
+	which can be used for multiple applications
+
+	(Package in Java - namespace/dll in .net) - Library in c++
+
+	----------------------------------------------
+	a. Global pacakges (commonly used packages like Http, express, fileIo etc)
+		they come pre-installed when you install Node
+
+		they are available in node_modules folder
+
+	b. NodeJs is an open source - pacakages are created/developed by organizations, communities
+		and deployed to NodeJS which is downloadable from anywhere
+
+		eg. Microsoft has pacakges to connect to sql server
+		   Amazon has packages to connect to AWS 
+		   SAP has to connect to sap
+	      
+		we use npm install commands to download other packages

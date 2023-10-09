@@ -1,0 +1,118 @@
+
+
+
+
+					NodeJS : Result of Web Revolution 
+
+
+			Revolution means a very big change - drastic change - shift from 1 to other
+
+			Reason : This is a change in the way ppl used internet those days and today
+				2000-2012 and 2016-2022
+
+
+
+			1. When did you use internet for the first time - year
+				world average is 2007 - across the world
+			2. Why did you use internet those days - (between 2007-2014)
+				email, downloads, surfing, project work, research etc..check tickets
+			3. Where did you use internet
+				home/cyber case/college
+			4. What was the source of internet
+				broadband/lan/dongle
+			5. how did you use internet ??
+				desktop/laptop (screen size was almost same) - strong hardware
+		--------------------------------------------------------------------------------------
+			Thus as a developer, web development was done accordingly
+			and we had technology designed accordingly to do so - .net, java, php, iis, apache etc.
+
+
+
+			Today (2016-2022)
+			 1. Why do you use internet those days - everything
+			 2. Where did you use internet - everywhere
+			 3. What was the source of internet - Wifi - mobile data
+			 4. how did you use internet - mobile phones, watch, refrigertor, car, etc....
+
+			 5. Habbits of ppl have also changed
+				eg. if some one send you a group pic on whats app - what do u do ?
+					zoom in - zoom out
+				    start a video - and when it starts - tilt the phone
+				expectations : content should also tilt
+
+		user expectations has changed as well - need faster contents, newer content, content should tilt etc...pixcels should not burst, over lap, app has to run fast
+				
+
+		expectations from clients / business owner are not more intese - because of competition 
+
+
+			eg. i got uber instead of Ola
+		ola lost a busineess - revene - (big thing - lost to a compitator)
+		driver lost a revenue and a customer
+		brand name is spoilt ( I am a customer and I am not talking good about them)
+
+		same story with everyone - u have a choice - zomato - swiggy - app from provider
+			
+
+	-----------------------------------------------------------------------------------------------
+			developer has to develop everything based on the above requiremebt
+			.net, java, php, python were not capable 
+			web services - for data exchange - not suitable for slow internet - thus REST today
+
+			Google has been really innovative in this
+
+			they launched google chrome with their own technology/engine/arcitecure etc..
+			chrome uses = an engine - V8 engine - very fast and suitable to todays user need
+
+			based on same technology - they gave NodeJS - faster and friendly - works for every OS
+			platform independet
+
+			NodeJS
+			1. Compiler for web - Javascript and Ecma Script (Typescript)
+			2. Web Server to host web applications - single thread app on OS
+			3. Platform independent - free - no licence - supports multiple frameworks
+							(angular/react etc..)
+
+		a platform to create, test, deploy, run MEAN stack and MERN stack application
+			M - MongoDB
+			E - Express(name of a Node module)
+			A - Angular
+			N - NodejS
+
+
+			M - MongoDB
+			E - Express
+			R - React 
+			N - Node
+
+	
+
+----------------------------------------------------------------------------------------------
+		1.download and install from 
+			nodejs.org
+		2.download and install VS Code 
+		
+		3. Write our first Javascript program and run it on NodeJS
+			access the same on a browser
+			use very first and basic nodejs module - Http
+
+			
+
+			Short Break : 4:35 - 4:55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
